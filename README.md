@@ -15,7 +15,7 @@ pip install matplotlib
 
 ## Contents
 
-- [Data Exploration](Data_Exploratiopn.ipynb) 
+- [Data Exploration](Data_Exploration.ipynb)
 
   To get an idea of the data and understand we need to explore the data. This will also give us the information to guess some of the parameters of the models we want to use.
 
